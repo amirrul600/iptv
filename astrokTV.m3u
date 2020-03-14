@@ -1,0 +1,847 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="ADMIN",creator by astrokTV murah IPTVMY
+http://62.210.89.41:8080/live/bNNtY5ypwP/BW33ASMFjg/19173.m3u8?token=HhVYAkpZQF8XUlZaAgcOAwNWAQZRAQZTUgUAAgNTVQNXBwZSWwZWUgITThtFQ0pVUlk6X1QaWVBcAw9QG0dDEgBFbwpdE1hHAQZbDwECGhwRQAxbVRpZUUkQSApTRwxDVw4AVwgTTkdQSRZcRFlZXGxQAEBZWwZDX1xND1tJFA4LaFQGVFAMARcLQAkUGxpZQERHDF5NDw1JEFoKQxdXFQAVCkEIB1ddFx1AWllCVkRBTUcMEnU6Q0kQXRtDAFgSDFheQQMTD1ZACUAVFF5Lb0FRFkJCXQIMAEAaWRVVFE1HWlEbZlINC1tUAU1fWFZDEQ5HBxIUQQwKXFEXWBdpEQxTElkbB1pdBxMf
+
+#EXTINF:-1 group-title="ADMIN",TELEGRAM: astrokTV 
+http://62.210.89.41:8080/live/bNNtY5ypwP/BW33ASMFjg/19173.m3u8?token=HhVYAkpZQF8XUlZaAgcOAwNWAQZRAQZTUgUAAgNTVQNXBwZSWwZWUgITThtFQ0pVUlk6X1QaWVBcAw9QG0dDEgBFbwpdE1hHAQZbDwECGhwRQAxbVRpZUUkQSApTRwxDVw4AVwgTTkdQSRZcRFlZXGxQAEBZWwZDX1xND1tJFA4LaFQGVFAMARcLQAkUGxpZQERHDF5NDw1JEFoKQxdXFQAVCkEIB1ddFx1AWllCVkRBTUcMEnU6Q0kQXRtDAFgSDFheQQMTD1ZACUAVFF5Lb0FRFkJCXQIMAEAaWRVVFE1HWlEbZlINC1tUAU1fWFZDEQ5HBxIUQQwKXFEXWBdpEQxTElkbB1pdBxMf
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/cyqqphe6KP.png" group-title="Radio", Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", Sinar FM
+http://astro2.rastream.com/sinar
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://m.facebook.com/SuriaMalaysia/photos/a.156527954405828/2301695889889013/?type=3&is_lookaside=1" group-title="Radio", Suria FM
+http://starrfm.rastream.com/starrfm-suria.android
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/aYVbJaEnPR.png" group-title="Radio", Thr Gegar
+http://astro2.rastream.com/gegar
+ 
+#EXTINF:-1 tvg-id="Dummy" group-title="Radio",Hitz fm
+http://astro1.rastream.com/hitz
+ 
+#EXTINF:-1 group-title="Radio",era fm
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 group-title="Radio",Mix fm
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="Radio", raaga fm
+https://astro3.rastream.com/raaga
+
+#EXTINF:-1 group-title="Radio", my fM
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1 group-title="Radio", Kool fm
+https://mediaprima.rastream.com/mediaprima-koolfm
+ 
+#EXTM3U
+
+#EXTINF:-1 group-title="my@Freeview", TV1
+http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=481661885de313531cfe8121895919fa
+
+#EXTINF:-1 group-title="BACKUP", TV1 BACKUP
+http://210.187.19.146/PLTV/88888888/224/3221226228/01.m3u8
+ 
+#EXTINF:-1 group-title="my@Freeview", Tv2
+http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a488863e9e3fd91edbe4791c44ca6f39
+
+#EXTINF:-1 group-title="my@Freeview", TV3
+http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a03658210d90477bf0ca1eedfc622c15
+
+#EXTINF:-1 group-title="my@Freeview", TV3
+http://f5.liveiptv8k.com/stream.m3u8?id=e1e7bc56c915f9f070a8c0406c1b35a9&type=cdnbye&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDoSTfTQH6a13UEujDNjfmAemkA6hECd33oedrTn3UTr3mEu562tHnS7i6QeLlQRSrASEpOf1JHeLSFgQ6RuTXQtanNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:-1 group-title="my@Freeview", TV3 backup
+http://f9.liveiptv8k.com/stream.m3u8?id=b17a5d29222406a7c9892480b8bea930&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDoSTfTQH6a13UEujDNjfmAemkA6hECd33oedrTn3UTr3mEu562tHnS7i6QeLlQRSrASEpOf1JHeLSFgQ6RuTXQtanNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:-1 group-title="my@Freeview", NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 group-title="my@Freeview", 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 group-title="my@Freeview", TV9
+http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=64310c306391f383db1e91f2d034baf7
+
+#EXTINF:-1 group-title="my@Freeview", TV9 backup
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 group-title="my@Freeview", Al Hijrah
+http://livegopanel.club:8080/live/bNNtY5ypwP/BW33ASMFjg/28636.m3u8
+
+#EXTINF:-1 group-title="my@Freeview", Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+ 
+#EXTINF:-1 group-title="my@Freeview", OKEY
+http://50.7.161.82:8278/Okey/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a4c93a25103dac7934abd1a455a78122
+ 
+#EXTINF:-1 group-title="my@Freeview", Go Shop
+http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+ 
+#EXTM3U
+
+#EXTINF:1 group-title="ASTRO",Ceria
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ASTRO",Ceria backup
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
+
+#EXTINF:1 group-title="BACKUP",Ceria backup2
+http://f1.liveiptv8k.com/stream.m3u8?id=d47110131768d5110c6bb01b9ad9ded3&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDHqIlH3EmR1Hi2uafFDKiQSjlQsV12dVrNh1ofe5fopHmRugmCkbrFDnfEhKAQRFCAf2mUd4sTqImTlcDRgErQ1nnNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Ria
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ASTRO",Ria backup
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+
+#EXTINF:1 group-title="BACKUP",Ria backup
+http://f11.liveiptv8k.com/stream.m3u8?id=7ffb8e64960be0cf4e0415d4a63aebf0&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDHdEDTrgnR1jOA1abSxTUEqqkEX63QS3GUr9sTe3iHQomCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Prima
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ASTRO",Prima backup
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+#EXTINF:1 group-title="BACKUP",Prima backup2
+http://f2.liveiptv8k.com/stream.m3u8?id=076242df5cfc85ba45bda2f7fe67d74f&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDHdEDTrgnR1jOA1abSxTUEqqkEX63QS3GUr9sTe3iHQomCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:-1 group-title="ASTRO",Warna
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:-1 group-title="ASTRO",Warna backup
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+
+#EXTINF:1 group-title="BACKUP",Warna backup2
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
+
+#EXTINF:1 group-title="BACKUP",Warna backup3
+http://f9.liveiptv8k.com/stream.m3u8?id=82e8ae1a253c1b26dbc7701a99aa5836&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDTqjXFrojCZASEpbk4xz7ESxlE6RWQf50Oe1dTqxkHgAmCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTINF:1 group-title="BACKUP",Citra backup
+http://f1.liveiptv8k.com/stream.m3u8?id=29f700c295ed340b1fd4e93dd2cbe92a&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDTqjXFrojCZASEpbk4xz7ESxlE6RWQf50Oe1dTqxkHgAmCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Oasis
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ASTRO",Oasis backup
+http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
+
+#EXTINF:1 group-title="BACKUP",Oasis backup
+http://f9.liveiptv8k.com/stream.m3u8?id=9c843e1446a3a73d27f79a6f3fbb2b00&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDohIrTpAACt3SA14645LlEdUnERntArEqoS10TfHNoQTmCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+EXTINF:1 group-title="ASTRO",Naura backup
+http://f5.liveiptv8k.com/stream.m3u8?id=13f1e2016b6f5586c823ae2d8b7531ba&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDohIrTpAACt3SA14645LlEdUnERntArEqoS10TfHNoQTmCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Hello HD
+http://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_02.m3u8
+
+#EXTINF:1 group-title="ASTRO",Go Shop
+http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+
+#EXTINF:1 group-title="ASTRO",Go Shop CHINESE
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+ 
+#EXTINF:1 group-title="ASTRO",Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:1 group-title="ASTRO",Al Hijrah
+http://f1.liveiptv8k.com/stream.m3u8?id=6d675e42ef45c1886749a5f43c51e61d&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDfrTOT3VnCZxkA1WXSTrOEe5mEXF0Ar2pOnENFdVnoQAmCkcnQ0WUFtjkCejpEqapAr3CoSdmfqDnfg2n3gErA1inNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="ASTRO",Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
+
+#EXTINF:1 group-title="ASTRO",Hypp Inspirasi HD
+http://livegopanel.club:8080/live/bNNtY5ypwP/BW33ASMFjg/33256.m3u8
+
+#EXTINF:1 group-title="ASTRO",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
+
+#EXTM3U
+
+#EXTINF:1 group-title="ENGLISH",BBC NEWS
+https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ENGLISH",BBC Lifestyle
+https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ENGLISH",BBC Earth
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ENGLISH",BLOOMBERG
+https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="ENGLISH",AFC Asian Food Network
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28705.m3u8
+
+#EXTINF:1 group-title="ENGLISH",AFC Asian Food Network backup
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="ENGLISH",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+#EXTINF:1 group-title="ENGLISH",AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+#EXTINF:1 group-title="ENGLISH",TLC
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28741.m3u8
+
+#EXTINF:1 group-title="ENGLISH",TLC backup
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="ENGLISH",BLUE ANT ENTERTIMENT
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ENGLISH",BLUE ANT EXSTREME
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="ENGLISH",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ 
+#EXTINF:1, group-title="ENGLISH",DIVA
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:1 group-title="ENGLISH",Thrill
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/18549.m3u8
+
+#EXTINF:1 group-title="ENGLISH",Thrill backup
+https://delivery.macan.live/stream/thrill/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="ENGLISH",HGTV
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28769.m3u8
+
+#EXTINF:1 group-title="ENGLISH",HGTV backup
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="ENGLISH",Lifetime
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28757.m3u8
+
+#EXTINF:1 group-title="ENGLISH",Lifetime backup
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTM3U
+ 
+#EXTINF:1 group-title="KNOWLEDGE",History
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28767.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",History2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+ 
+#EXTINF:1 group-title="KNOWLEDGE",Discovery
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="KNOWLEDGE",Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="KNOWLEDGE",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",National Geographic
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28752.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",Nat Geo Wild
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28750.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",Nat Geo People
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28751.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",National Geographic HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+ 
+#EXTINF:1 group-title="KNOWLEDGE",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+ 
+#EXTINF:1 group-title="KNOWLEDGE",Nat Geo People HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",Animal Planet
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28815.m3u8
+
+#EXTINF:1 group-title="KNOWLEDGE",Animal Planet backup
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTM3U
+ 
+#EXTINF:1 group-title="KIDS",ANIMAX
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28814.m3u8
+
+#EXTINF:1 group-title="KIDS",ANIMAX backup
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",ANIPLUS
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/18550.m3u8
+
+#EXTINF:1 group-title="KIDS",Boomerang
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28798.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS", Cartoon Network backup
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",Disney XD
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/22910.m3u8
+
+#EXTINF:1 group-title="KIDS",Disney XD backup
+https://delivery.macan.live/stream/disneyxd/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",Disney Channel HD
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="KIDS",Disney Channel
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28790.m3u8
+
+#EXTINF:1 group-title="KIDS",Disney Channel backup
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="KIDS",Disney Junior
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28789.m3u8
+
+#EXTINF:1 group-title="KIDS",Disney Junior Indo
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:1 group-title="KIDS",Disney Junior Indo backup
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",Nick
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28748.m3u8
+ 
+#EXTINF:1 group-title="KIDS",Nick JR
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28747.m3u8
+
+#EXTINF:1 group-title="KIDS",Nick JR backup
+https://delivery.macan.live/stream/nickjr/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+ 
+#EXTINF:1 group-title="KIDS",Baby TV
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:1 group-title="KIDS",Baby TV backup
+https://delivery.macan.live/stream/babytv/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",Warner TV
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="KIDS",Warner TV backup
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="KIDS",Zoomoo
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", Nimo TV - Ben Ten
+http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", Nimo TV - Larva
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", Nimo TV - Tom & Jerry
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", Nimo TV - Doraemon Series
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+
+#EXTM3U
+
+#EXTINF:1 group-title="MUSIC",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:1 group-title="MUSIC",One MUS HD
+http://rtmp.one.by:1300
+ 
+#EXTM3U
+ 
+#EXTINF:1 group-title="Korea/Japan",tvN
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28739.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",tvN backup
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="Korea/Japan",tvN Movies
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28738.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",tvN Movies backup
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="Korea/Japan",KIX
+http://210.210.155.66/h/h07/01.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",KIX backup
+https://delivery.macan.live/stream/kix/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="Korea/Japan",OH!K
+http://185.132.176.172:8278/Ohk/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=d1e285f831460cd7caaded473ee590cd
+
+#EXTINF:1 group-title="Korea/Japan",Sony One
+http://210.210.155.66/h/h143/02.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",Sony One backup
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="Korea/Japan",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",Sony Gem backup
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="Korea/Japan",KBS WORLD
+https://delivery.macan.live/stream/kbs_world/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="Korea/Japan",KBS1
+http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
+ 
+#EXTINF:1 group-title="Korea/Japan",KBS2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+ 
+#EXTINF:1 group-title="Korea/Japan",K+ HD
+http://210.210.155.66/h/h08/01.m3u8
+ 
+#EXTINF:1 group-title="Korea/Japan",Running Man TV
+https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",Arirang
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28813.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",Arirang backup
+https://delivery.macan.live/stream/arirang/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTINF:1 group-title="Korea/Japan",Waku Waku Japan
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28734.m3u8
+
+#EXTINF:1 group-title="Korea/Japan",Waku Waku Japan backup
+https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="Korea/Japan",NHK World Japan
+https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=gYX6lZRa&v=20200308
+ 
+#EXTM3U
+
+#EXTINF:1 group-title="MOVIES", BOO
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+
+#EXTINF:1 group-title="MOVIES", BOO backup
+http://f2.liveiptv8k.com/stream.m3u8?id=92626b9dd0ab3df636403c41c50b2ed9&type=cdnbye&keygemini=2ePtNhfTTqcko35ARtcnAt47ojTNQSzA2mrr2qo0NeEDTqDrHrcDaucDE1jlSDriEeKy2mlJAeVtUnQmTexnfg5mEgAiApC6otzOQqUjQ6CWEqA0oeg4TqPDfr30Rt2DEpRnNjLlQh5lA6VJ2dQ0UneDTSLSo3VmR056A1HnNsUnASo=
+
+#EXTINF:1 group-title="MOVIES",Cinemax HD
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="MOVIES",HBO Signature
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="MOVIES",HBO Hits
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="MOVIES",HBO Family
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",FOX
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",Fox Movies
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",Fox Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",Fox Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",FOX LIFE
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",FOX Crime
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="MOVIES",Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+ 
+#EXTINF:1 group-title="MOVIES",Cinema Word
+http://210.210.155.66/h/h04/01.m3u8
+ 
+#EXTINF:1 group-title="MOVIES",StarMovies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+ 
+#EXTINF:1 group-title="MOVIES",StarWorld HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+ 
+#EXTINF:1 group-title="MOVIES",Hits
+https://delivery.macan.live/stream/hits/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="MOVIES",Hits Movies
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="MOVIES",Crime Investigagion
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="MOVIES",Sony MAX
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+ 
+#EXTM3U
+ 
+#EXTINF:1 group-title="SPORT",Cricket
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",Arena
+https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT 2
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT 3
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT 4
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:-1 group-title="SPORT",Fox Sport
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:-1 group-title="SPORT",Fox Sport 2
+https://delivery.macan.live/stream/id_foxsport2/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:-1 group-title="SPORT",Fox Sport 3
+https://delivery.macan.live/stream/id_foxsport3/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS backup
+http://198.147.24.66:25461/live/skydbnew/bfHcm8THgk/212.m3u8?token=HhBZURFYRgkQUwQEUw0ADlsAA1AOXAEMXg1SAwYHUFAAVwMEUwdTAAcQHUMVTBFcWFxoCl1HDQpXChxAQkcDQTpbVRJYElcDEB4TFQ9VBhsDARtBSQxTGlwaAVIPBlARSRBUSBZVFl1TXm4FA04KWlwTDQ1MCVsURFdePVNRC1ILVhMKQAFGHxBbQhFEAg1MVV0bQVsMQ0oHTFVADRZTBlcLExxAUwtGXEZDGEQCQWxqExtBXB1DXQhLWQ1ZFlwRCAFECEAcRlpBbUMEFUwRXFhcUhEbXxUIRBQSD1ZMOVAKXF9VAUQNXFxBE1tECEEVG1xYDVARWEo5SFkGFQ5EBlIACBIf
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1 backup
+http://160.119.77.50/iptv/epl-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2 backup
+http://160.119.77.50/iptv/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1 backup2
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28732.m3u8
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2 backup2
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/28731.m3u8
+
+#EXTINF:1 group-title="SPORT",Sony TEN1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+ 
+#EXTINF:1 group-title="SPORT",Sony TEN2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+ 
+#EXTINF:1 group-title="SPORT",Sony TEN3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+ 
+#EXTINF:1 group-title="SPORT",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+
+#EXTINF:1 group-title="SPORT",EuroSport 1
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/7290.m3u8
+ 
+#EXTINF:1 group-title="SPORT",EuroSport 2
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/7291.m3u8
+
+#EXTINF:1 group-title="SPORT",EuroSport 2 backup
+http://5.135.92.133:52841/out/u/511_1.m3u8
+
+#EXTINF:1 group-title="SPORT",RUSH Special
+https://delivery.macan.live/stream/macan_sport_36/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",Setanta Sport
+https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=gYX6lZRa&v=20200202
+ 
+#EXTINF:1 group-title="SPORT",EGG NETWORK
+http://210.210.155.66/h/h22/01.m3u8
+ 
+#EXTINF:1 group-title="SPORT",Olympic
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+ 
+#EXTINF:1 group-title="SPORT",GOLF CHANNEL
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10687.m3u8
+ 
+#EXTINF:1 group-title="SPORT",Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
+ 
+#EXTINF:1 group-title="SPORT",WWE NETWORK
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10766.m3u8
+
+#EXTINF:1 group-title="SPORT",Star Sport 1
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+ 
+#EXTINF:1 group-title="SPORT",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+ 
+#EXTINF:1 group-title="SPORT",FS News
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:1 group-title="SPORT",AF Supersport 1
+https://delivery.macan.live/stream/macan_sport_24/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 2
+https://delivery.macan.live/stream/macan_sport_25/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 3
+https://delivery.macan.live/stream/macan_sport_26/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 4
+https://delivery.macan.live/stream/macan_sport_27/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 5
+https://delivery.macan.live/stream/macan_sport_28/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 6
+https://delivery.macan.live/stream/macan_sport_29/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 7
+https://delivery.macan.live/stream/macan_sport_30/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 8
+https://delivery.macan.live/stream/macan_sport_31/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 9
+https://delivery.macan.live/stream/macan_sport_32/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 10
+https://delivery.macan.live/stream/macan_sport_33/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 11
+https://delivery.macan.live/stream/macan_sport_34/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:1 group-title="SPORT",AF Supersport 12
+https://delivery.macan.live/stream/macan_sport_35/index.m3u8?token=gYX6lZRa&v=20200202
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1
+ttp://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 3
+http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 4
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 5
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
+ 
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 6
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
+
+#EXTINF:1 group-title="SPORT",Arena backup
+http://198.16.106.58:8278/arena_glo/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=f6e97fa1f2c93af97dc0afca5a15cf20
+
+#EXTINF:1 group-title="SPORT",SUPERSPORT backup
+http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT 2 backup
+http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT 3 backup
+http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+ 
+#EXTINF:1 group-title="SPORT",SUPERSPORT 4 backup
+http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+
+#EXTINF:1 group-title="SPORT",Supersport backup II
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/19170.m3u8
+
+#EXTINF:1 group-title="SPORT",Supersport 2 backup II
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/19171.m3u8
+
+#EXTINF:1 group-title="SPORT",Supersport 3 backup II
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/19172.m3u8
+ 
+#EXTINF:1 group-title="SPORT",Supersport 4 backup II
+http://livegopanel.club:8080/live/dt6SU8zQDw/vnJxFk69h2/19173.m3u8
+
+#EXTM3U
+
+#EXTINF:1 group-title="CHINESE",Celestial Movies
+https://delivery.macan.live/stream/cm/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="CHINESE",Celestial Classic
+https://delivery.macan.live/stream/ccm/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="CHINESE",SCM Legend
+https://delivery.macan.live/stream/scmlegend/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="CHINESE",Star Chinese Movies
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTM3U
+
+#EXTINF:1 group-title="INDIA",ZEE Bioskop
+https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTINF:1 group-title="INDIA",ZEE TV
+https://delivery.macan.live/stream/zeetv/index.m3u8?token=gYX6lZRa&v=20200308
+
+#EXTM3U
+ 
+#EXTINF:1 group-title="BACKUP",OKEY
+http://50.7.161.82:8278/Okey/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a4c93a25103dac7934abd1a455a78122
+ 
+#EXTINF:1 group-title="BACKUP" ,AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+ 
+#EXTM3U
+
+#EXTINF:1, group-title="VOD",The Flu (2013)
+https://fvs.io/redirector?token=Z0RJWkJNVk9aQlQvd1FKWHBVUTlqOFpCTXhCcHFyRUpnN0FuOWYyalExUGRPNm9RaTlxMFNwZXFKcHIyMlh3MWVsQ0FjTXV4Y1RqZWs1d2pvMktOcXhDbEpWYXFrS2MzbTVWWDlhNEVYdTdOekUyZ2hCRjM3WXFiZjBldGFkNnpkRFhyWHlWLy9DZlVaRytEb0JmYURCTFZrQ2NZOnNub0YzQ2ZxSjRRWDlzZEkrcGJOOXc9PQ
+
+#EXTINF:1 group-title="VOD",DragonHearth Vengeance (2020)
+http://23.237.118.58:23435/ccf74f38/playlist.m3u8?key=4e5bedc2c85dcf689341d2568e8e9531
+
+#EXTINF:1 group-title="VOD",Jumanji: The Next Level (2019)
+http://23.237.118.58:23415/01c3a2e9/playlist.m3u8?key=4e5bedc2c85dcf689341d2568e8e9531
+
+#EXTINF:1 group-title="VOD",Sonic The Hedgehoq (2020)
+http://23.237.118.58:23445/70a4bb38/playlist.m3u8?key=7a6a2d1a1aa44d20d05937f1a58b847a
+
+#EXTINF:1 group-title="VOD",Waves (2020)
+http://23.237.118.58:23435/db8a21ff/playlist.m3u8?key=e5db84e3a5c8d2affd7d62b6a4703828
+
+#EXTINF:1 group-title="VOD",Holly Slept Over (2020)
+http://23.237.118.58:23435/470f0fa7/playlist.m3u8?key=e5db84e3a5c8d2affd7d62b6a4703828
+
+#EXTINF:1 group-title="VOD",Virus (2020)
+http://23.237.118.58:23435/a18cb941/playlist.m3u8?key=e5db84e3a5c8d2affd7d62b6a4703828
+
+#EXTINF:1 group-title="VOD",Doktor Sleep (2020)
+http://23.237.118.58:23435/e7662e9c/playlist.m3u8?key=e5db84e3a5c8d2affd7d62b6a4703828
+
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/goh8D4Y.png" group-title="VOD MOVIES US", Mummy Reborn (2019)
+https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nt2DzUZ.png" group-title="VOD MOVIES US", Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pApJmzI.png" group-title="VOD MOVIES US", Official Secrets (2019)
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6ptIRY.png" group-title="VOD MOVIES US", The Elephant Queen (2019)
+https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQys8AP.png" group-title="VOD MOVIES US", Chhichhore (2019)
+https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xYF9Il.png" group-title="VOD MOVIES US", Primal (2019)
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNX1xkn.png" group-title="VOD MOVIES US", Joker (2019)
+https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4HQ42S.png" group-title="VOD MOVIES US", Acceleration (2019)
+https://www.googleapis.com/drive/v3/files/1f4DLbnYAeVqN_otebwSZivA5vkmsbv3J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYarpoN.png" group-title="VOD MOVIES US", Wake Up (2019)
+https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWlubjf.png" group-title="VOD MOVIES US", Gemini Man (2019)
+https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70eK72D.png" group-title="VOD MOVIES US", Jeff Garlin: Our Man in Chicago (2019)
+https://www.googleapis.com/drive/v3/files/1Hv6sYEkuzO9kz1d9TCXguazI4xr8wbeO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TjV5ELn.png" group-title="VOD MOVIES US", Badland (2019)
+https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJEIWjJ.png" group-title="VOD MOVIES US", Door in the Woods (2019)
+https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWgj81w.png" group-title="VOD MOVIES US", The Fighting Preacher (2019)
+https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGHsQB6.png" group-title="VOD MOVIES US", Transit 17 (2019)
+https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20amKvh.png" group-title="VOD MOVIES US", Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZvYBuU.jpg" group-title="VOD MOVIES US", Crawl (2019)
+https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5uKSUN.jpg" group-title="VOD MOVIES US", El Camino: A Breaking Bad Movie (2019) https://www.googleapis.com/drive/v3/files/1ZaDQT-lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffYuJd0.png" group-title="VOD MOVIES US", Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1icrzCjBPrEpsk128cY5onUcGVVVLxsmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUtCr5e.jpg" group-title="VOD MOVIES US", Men in Black: International (2019)
+https://www.googleapis.com/drive/v3/files/1LIkVZaEGq3nDX1lRA4j19PV8TGzZhVDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pApJmzI.png" group-title="VOD MOVIES US", Official Secrets (2019)
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6ptIRY.png" group-title="VOD MOVIES US", The Elephant Queen (2019)
+https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQys8AP.png" group-title="VOD MOVIES US", Chhichhore (2019)
+https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xYF9Il.png" group-title="VOD MOVIES US", Primal (2019)
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNX1xkn.png" group-title="VOD MOVIES US", Joker (2019)
+https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTM3U
+
+#EXTINF:1 group-title="VOD MALAY",EJEN ALI MOVIE
+http://nasririwat.tk/Ejenali.mkv
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M1
+http://23.237.118.58:23415/fd3625d8/playlist.m3u8?key=24620a69e41f4bb32b6971f6ce65b9cf
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M2
+http://23.237.118.58:23425/0e1c6267/playlist.m3u8?key=bba62144fffdf4a7cab40534964e24b0
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M3
+http://23.237.118.58:23415/04dd58ab/playlist.m3u8?key=bba62144fffdf4a7cab40534964e24b0
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M4
+http://23.237.118.58:23415/6f9e61ec/playlist.m3u8?key=bba62144fffdf4a7cab40534964e24b0
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M5
+http://23.237.118.58:23415/589cdfd6/playlist.m3u8?key=bba62144fffdf4a7cab40534964e24b0
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M6
+http://23.237.118.58:23415/15b3acc4/playlist.m3u8?key=bba62144fffdf4a7cab40534964e24b0
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M7
+http://23.237.118.58:23415/15b3acc4/playlist.m3u8?key=56681ac9b39c0b59639d6d702beb4f78
+
+#EXTINF:1 group-title="VOD MALAY",SEPAHTU REUNION M8
+http://23.237.118.58:23435/c8f3615b/playlist.m3u8?key=2df352d64b947fea5997bed34555692f
+
+#EXTINF:1 group-title="VOD MALAY",Hantu ustazah supiah (astro citra)
+http://23.237.118.58:23415/54ca5de7/playlist.m3u8?key=8f0b5413ab3cedfcce12692c84838dae
+
+#EXTINF:1 group-title="VOD MALAY",Santau Maut (astro citra)
+http://23.237.118.58:23445/a2ce5e67/playlist.m3u8?key=e5db84e3a5c8d2affd7d62b6a4703828
+
+#EXTINF:1 group-title="VOD MALAY",Ekut Aku Ke Neraka
+http://23.237.118.58:23435/5767b491/playlist.m3u8?key=e5db84e3a5c8d2affd7d62b6a4703828
